@@ -37,8 +37,9 @@
 
 ---
 
-### 📌 Featured Projects  
+### 📌 Featured Projects
 - 🚖 **[NYC-Taxi-Analysis](https://github.com/SummayahKhan/NYC-Taxi-Analysis)** — EDA and Fare Prediction on NYC Yellow Taxi Trip Data  
+- 📉 **[Customer-Churn-Analysis](https://github.com/SummayahKhan/Customer-Churn-Analysis)** — RFM-based customer churn analysis with an interactive Power BI dashboard
 
 ---
 
