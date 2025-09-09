@@ -8,7 +8,7 @@
 - 📊 Skilled in **Matplotlib, Seaborn, Power BI**  
 - 🧹 Experienced in **data cleaning & preprocessing**  
 - 🔎 Passionate about **exploratory data analysis (EDA)**  
-- 💡 I enjoy working with structured data to **uncover insights, build dashboards, and support evidence-based decision-making**  
+- 💡 I enjoy working with structured data to **uncover insights, build dashboards, and support evidence-based decision making**  
 
 ---
 
@@ -22,7 +22,7 @@
 
 ---
 
-### 💻 Languages & Tools I Also Use  
+### 💻 Additional Skills  
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -38,7 +38,7 @@
 ---
 
 ### 📌 Featured Projects  
-- 🚖 **[NYC-Taxi-Analysis](https://github.com/SummayahKhan/NYC-Taxi-Analysis)** — Exploratory Data Analysis and Fare Prediction on NYC Yellow Taxi Trip Data  
+- 🚖 **[NYC-Taxi-Analysis](https://github.com/SummayahKhan/NYC-Taxi-Analysis)** — EDA and Fare Prediction on NYC Yellow Taxi Trip Data  
 
 ---
 
@@ -47,4 +47,4 @@
 
 ---
 
-✨ *Always open to learning, collaboration, and new opportunities in data analytics!*  
+✨ *Always open to learning, collaboration, and new opportunities in data analytics!*
